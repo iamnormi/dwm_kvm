@@ -7,8 +7,8 @@ static const unsigned int snap      = 32;       /* snap pixel */
 static const int swallowfloating    = 0;        /* 1 means swallow floating windows by default */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "JetBrainsMono Nerd Font:size=11", "JoyPixels:pixelsize=11:antialias=true:autohint=true"};
-static const char dmenufont[]       = "JetBrainsMono Nerd Font:size=11";
+static const char *fonts[]          = { "JetBrainsMono NFM:size=11", "JoyPixels:pixelsize=11:antialias=true:autohint=true"};
+static const char dmenufont[]       = "JetBrainsMono NFM:size=11";
 
 /*default colors*/
 /*
